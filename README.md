@@ -13,4 +13,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BoykoPetevBoev&repo=github-readme-stats)](https://github.com/BoykoPetevBoev/SoftUni-React-JS-June-2020)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BoykoPetevBoev&repo=github-readme-stats)](https://github.com/BoykoPetevBoev/SoftUni-HTML-and-CSS-September-2020)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BoykoPetevBoev&repo=github-readme-stats)](https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BoykoPetevBoev&repo=SoftUni-Algorithms-Fundamentals-November-2020)](https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020)
