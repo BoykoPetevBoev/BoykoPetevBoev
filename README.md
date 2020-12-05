@@ -60,16 +60,11 @@
    >
 </a>
 
-<div style="background-color: var(--color-bg-primary);
-      border: 1px solid var(--color-border-primary);
-      border-radius: 6px;">
+<div style="background-color: var(--color-bg-primary);border: 1px solid var(--color-border-primary);border-radius: 6px;">
    <a href="https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020"
-      style="color: var(--color-text-link);
-      text-decoration: none;
-      font-weight: 600;">
+      style="color: var(--color-text-link);text-decoration: none;font-weight: 600;">
       <span class="repo" title="SoftUni-Algorithms-Fundamentals-November-2020">SoftUni-Algorithms-Fundamentals-November-2020</span>
-      <p style="font-size: 12px;
-         color: #586069;">  RECURSION / SEARCHING / SORTING / GRAPH THEORY </p>
+      <p style="font-size: 12px;color: #586069;">  RECURSION / SEARCHING / SORTING / GRAPH THEORY </p>
    </a>
 </div>
 
