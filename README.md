@@ -60,19 +60,32 @@
    >
 </a>
 
-<a href="https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020">
-   <span class="repo" title="SoftUni-Algorithms-Fundamentals-November-2020">SoftUni-Algorithms-Fundamentals-November-2020</span>
-   <p class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">  RECURSION / SEARCHING / SORTING / GRAPH THEORY </p>
-   <p class="mb-0 f6 text-gray">
-          <span class="d-inline-block mr-3">
-  <span class="repo-language-color" style="background-color: #f1e05a"></span>
-  <span itemprop="programmingLanguage">JavaScript</span>
-</span>
-
-      </p>
-</a>
+<div>
+   <a href="https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020">
+      <span class="repo" title="SoftUni-Algorithms-Fundamentals-November-2020">SoftUni-Algorithms-Fundamentals-November-2020</span>
+      <p class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">  RECURSION / SEARCHING / SORTING / GRAPH THEORY </p>
+   </a>
+</div>
 
 <style>
+
+   div {
+      background-color: var(--color-bg-primary);
+      border: 1px solid var(--color-border-primary);
+      border-radius: 6px;
+   }
+   
+   a {
+      color: var(--color-text-link);
+      text-decoration: none;
+      font-weight: 600;
+   }
+
+   p {
+         font-size: 12px;
+         color: #586069;
+   }
+
    img {
       height: 110px;
       width: 50%;
