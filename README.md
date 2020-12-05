@@ -60,37 +60,19 @@
    >
 </a>
 
-<div>
-   <a href="https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020">
+<div style="background-color: var(--color-bg-primary);
+      border: 1px solid var(--color-border-primary);
+      border-radius: 6px;">
+   <a href="https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020"
+      style="color: var(--color-text-link);
+      text-decoration: none;
+      font-weight: 600;">
       <span class="repo" title="SoftUni-Algorithms-Fundamentals-November-2020">SoftUni-Algorithms-Fundamentals-November-2020</span>
-      <p class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">  RECURSION / SEARCHING / SORTING / GRAPH THEORY </p>
+      <p style="font-size: 12px;
+         color: #586069;">  RECURSION / SEARCHING / SORTING / GRAPH THEORY </p>
    </a>
 </div>
 
-<style>
-
-   div {
-      background-color: var(--color-bg-primary);
-      border: 1px solid var(--color-border-primary);
-      border-radius: 6px;
-   }
-   
-   a {
-      color: var(--color-text-link);
-      text-decoration: none;
-      font-weight: 600;
-   }
-
-   p {
-         font-size: 12px;
-         color: #586069;
-   }
-
-   img {
-      height: 110px;
-      width: 50%;
-   }
-</style>
    
    
    <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoykoPetevBoev&repo=SoftUni-Algorithms-Fundamentals-November-2020" 
