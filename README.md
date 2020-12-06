@@ -1,7 +1,9 @@
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=BoykoPetevBoev&count_private=true&show_icons=true" width="400px" height="170px" padding="8px">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoykoPetevBoev&layout=compact" width="400px" height="170px" padding="8px">
+   <img src="https://github-readme-stats.vercel.app/api?username=BoykoPetevBoev&count_private=true&show_icons=true" width="400px" height="130px" padding="8px">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoykoPetevBoev&layout=compact" width="400px" height="130px" padding="8px">
 </p>
+
+<div align="center">
 
 <a href="https://github.com/BoykoPetevBoev/SoftUni-Programming-Basics-January-2019">
 <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-Programming-Basics.jpg" 
@@ -44,10 +46,13 @@
    >
 </a>
 
-   <a href="https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020">
+<a href="https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020">
    <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-Algorithms-Fundamentals.jpg" 
       alt="ReadMe Card" 
    >
-   </a>
+</a>
+
+</div>
+
 
    
