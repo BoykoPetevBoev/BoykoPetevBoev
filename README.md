@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img href="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
+<img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
 
 <a align="left" width="49%"  href="https://github.com/BoykoPetevBoev/SoftUni-Programming-Basics-January-2019" >
 <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-1.png" 
