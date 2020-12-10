@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img href="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
+<img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
 
 <a align="left" width="49%"  href="https://github.com/BoykoPetevBoev/SoftUni-Programming-Basics-January-2019" >
 <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-1.png" 
@@ -55,6 +55,33 @@
 </a>
 
 </div>
+
+
+<table>
+   <tr>
+      <td width="50%">
+         <p>
+            <a href="https://github.com/BoykoPetevBoevSoftUni-Programming-Basics-January-2019"> 📄  SoftUni-Programming-Basics-January-2019 </a></p> 
+         <p>IF-ELSE / FOR LOOP / WHILE LOOP</p><p>🟡  JavaScript </p>
+      </td>
+      <td width="50%">
+         <p>
+            <a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Fundamentals-May-2019"> 📄  SoftUni-JS-Fundamentals-May-2019 </a></p> 
+         <p>ARRAYS / OBJECTS / REGULAR EXPRESSIONS / TEXT PROCESSING</p><p>🟡 JavaScript </p>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Advanced-September-2019"> 📄  SoftUni-JS-Advanced-September-2019 </a></p> 
+         <p>DOM / CLASSES / UNIT TESTING</p><p>🟡 JavaScript </p></td>
+      <td>
+         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Applications-October-2019"> 📄  SoftUni-JS-Applications-October-2019 </a></p> 
+         <p>REST SERVICES / AJAX / REMOTE DATABASES / ROUTING / TEMPLATING</p><p>🟡 JavaScript </p>
+      </td>
+   </tr>
+</table>
+
+
 
 
    
