@@ -7,7 +7,7 @@
 
 <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
 
-<a align="left" width="49%"  href="https://github.com/BoykoPetevBoev/SoftUni-Programming-Basics-January-2019" >
+<!-- <a align="left" width="49%"  href="https://github.com/BoykoPetevBoev/SoftUni-Programming-Basics-January-2019" >
 <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-1.png" 
    alt="ReadMe Card"  width="49%"
 </a>
@@ -22,41 +22,86 @@
    <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-3.png" 
       alt="ReadMe Card" width="49%"
    >
-</a>
+</a> -->
 
-<a align="right" width="49%" href="https://github.com/BoykoPetevBoev/SoftUni-JS-Applications-October-2019">
+<!-- <a align="right" width="49%" href="https://github.com/BoykoPetevBoev/SoftUni-JS-Applications-October-2019">
    <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-4.png" 
       alt="ReadMe Card" width="49%"
    >
-</a>
+</a> -->
 
-<a align="left" width="49%" href="https://github.com/BoykoPetevBoev/SoftUni-JS-Back-End-May-2020">
+<!-- <a align="left" width="49%" href="https://github.com/BoykoPetevBoev/SoftUni-JS-Back-End-May-2020">
    <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-5.png" 
       alt="ReadMe Card" width="49%"
    >
-</a>
+</a> -->
 
-<a align="right" width="49%" href="https://github.com/BoykoPetevBoev/SoftUni-React-JS-June-2020">
+<!-- <a align="right" width="49%" href="https://github.com/BoykoPetevBoev/SoftUni-React-JS-June-2020">
    <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-6.png" 
       alt="ReadMe Card" width="49%"
    >
-</a>
+</a> -->
 
-<a align="left" width="49%" href="https://github.com/BoykoPetevBoev/SoftUni-HTML-and-CSS-September-2020">
+<!-- <a align="left" width="49%" href="https://github.com/BoykoPetevBoev/SoftUni-HTML-and-CSS-September-2020">
    <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-7.png" 
       alt="ReadMe Card" width="49%"
    >
-</a>
+</a> -->
 
-<a align="right" width="49%" href="https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020">
+<!-- <a align="right" width="49%" href="https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020">
    <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-8.png" 
       alt="ReadMe Card" width="49%"
    >
-</a>
+</a> -->
 
 </div>
 
-<table>
+<table width="100%">
+   <tr>
+      <td width="50%">
+         <p>
+            <a href="https://github.com/BoykoPetevBoev/SoftUni-Programming-Basics-January-2019"> 📄  SoftUni-Programming-Basics-January-2019 </a></p> 
+         <p>IF-ELSE / FOR LOOP / WHILE LOOP</p><p>🟡  JavaScript </p>
+      </td>
+      <td width="50%">
+         <p>
+            <a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Fundamentals-May-2019"> 📄  SoftUni-JS-Fundamentals-May-2019 </a></p> 
+         <p>ARRAYS / OBJECTS / REGULAR EXPRESSIONS / TEXT PROCESSING</p><p>🟡 JavaScript </p>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Advanced-September-2019"> 📄  SoftUni-JS-Advanced-September-2019 </a></p> 
+         <p>DOM / CLASSES / UNIT TESTING</p><p>🟡 JavaScript </p></td>
+      <td>
+         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Applications-October-2019"> 📄  SoftUni-JS-Applications-October-2019 </a></p> 
+         <p>REST SERVICES / AJAX / REMOTE DATABASES / ROUTING / TEMPLATING</p><p>🟡 JavaScript </p>
+      </td>
+   </tr>
+    <tr>
+      <td>
+         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Back-End-May-2020"> 📄 SoftUni-JS-Back-End-May-2020</a></p> 
+         <p></p>EXPRESSJS / TEMPLATING / MONGODB / SESSION / AUTHENTICATION<p>🟡 JavaScript </p></td>
+      <td>
+         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-React-JS-June-2020"> 📄 SoftUni-React-JS-June-2020</a></p> 
+         <p>COMPONENTS / ROUTING / SPA / FORMS / REACT HOOKS</p><p>🟡 JavaScript </p>
+      </td>
+   </tr>
+   </tr>
+    <tr>
+      <td>
+         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-HTML-and-CSS-September-2020"> 📄 SoftUni-HTML-and-CSS-September-2020</a></p> 
+         <p>HTML & CSS / CSS BOX MODEL / POSITION & FLOAT / FLEXBOX</p><p>🔴 HTML </p></td>
+      <td>
+         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020"> 📄 SoftUni-Algorithms-Fundamentals-November-2020</a></p> 
+         <p>RECURSION / SEARCHING / SORTING / GRAPH THEORY</p><p>🟡 JavaScript </p>
+      </td>
+   </tr>
+    
+</table>
+
+
+<!-- <table>
    <tr>
       <td width="50%">
          <p>
@@ -78,32 +123,7 @@
          <p>REST SERVICES / AJAX / REMOTE DATABASES / ROUTING / TEMPLATING</p><p>🟡 JavaScript </p>
       </td>
    </tr>
-</table>
-
-
-<table>
-   <tr>
-      <td width="50%">
-         <p>
-            <a href="https://github.com/BoykoPetevBoevSoftUni-Programming-Basics-January-2019"> 📄  SoftUni-Programming-Basics-January-2019 </a></p> 
-         <p>IF-ELSE / FOR LOOP / WHILE LOOP</p><p>🟡  JavaScript </p>
-      </td>
-      <td width="50%">
-         <p>
-            <a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Fundamentals-May-2019"> 📄  SoftUni-JS-Fundamentals-May-2019 </a></p> 
-         <p>ARRAYS / OBJECTS / REGULAR EXPRESSIONS / TEXT PROCESSING</p><p>🟡 JavaScript </p>
-      </td>
-   </tr>
-   <tr>
-      <td>
-         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Advanced-September-2019"> 📄  SoftUni-JS-Advanced-September-2019 </a></p> 
-         <p>DOM / CLASSES / UNIT TESTING</p><p>🟡 JavaScript </p></td>
-      <td>
-         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Applications-October-2019"> 📄  SoftUni-JS-Applications-October-2019 </a></p> 
-         <p>REST SERVICES / AJAX / REMOTE DATABASES / ROUTING / TEMPLATING</p><p>🟡 JavaScript </p>
-      </td>
-   </tr>
-</table>
+</table> -->
 
 
 
