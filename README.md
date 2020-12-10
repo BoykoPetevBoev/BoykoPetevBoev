@@ -13,57 +13,55 @@
    <tr>
       <td width="50%">
          <p>
-            <a href="https://github.com/BoykoPetevBoev/SoftUni-Programming-Basics-January-2019"> 📄  SoftUni-Programming-Basics-January-2019 </a></p> 
-         <p>IF-ELSE / FOR LOOP / WHILE LOOP</p><p>🟡  JavaScript </p>
+            <a font-weight="500" href="https://github.com/BoykoPetevBoev/SoftUni-Programming-Basics-January-2019"> 📄  SoftUni-Programming-Basics-January-2019 </a></p> 
+         <p font-size="12px">IF-ELSE / FOR LOOP / WHILE LOOP</p>
+         <p font-size="12px">🟡  JavaScript </p>
       </td>
       <td width="50%">
          <p>
-            <a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Fundamentals-May-2019"> 📄  SoftUni-JS-Fundamentals-May-2019 </a></p> 
-         <p>ARRAYS / OBJECTS / REGULAR EXPRESSIONS / TEXT PROCESSING</p><p>🟡 JavaScript </p>
+            <a font-weight="500" href="https://github.com/BoykoPetevBoev/SoftUni-JS-Fundamentals-May-2019"> 📄  SoftUni-JS-Fundamentals-May-2019 </a></p> 
+         <p font-size="12px">ARRAYS / OBJECTS / REGULAR EXPRESSIONS / TEXT PROCESSING</p>
+         <p font-size="12px">🟡 JavaScript </p>
       </td>
    </tr>
    <tr>
       <td>
-         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Advanced-September-2019"> 📄  SoftUni-JS-Advanced-September-2019 </a></p> 
-         <p>DOM / CLASSES / UNIT TESTING</p><p>🟡 JavaScript </p></td>
+         <p><a font-weight="500" href="https://github.com/BoykoPetevBoev/SoftUni-JS-Advanced-September-2019"> 📄  SoftUni-JS-Advanced-September-2019 </a></p> 
+         <p font-size="12px">DOM / CLASSES / UNIT TESTING</p>
+         <p font-size="12px">🟡 JavaScript </p></td>
       <td>
-         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Applications-October-2019"> 📄  SoftUni-JS-Applications-October-2019 </a></p> 
-         <p>REST SERVICES / AJAX / REMOTE DATABASES / ROUTING / TEMPLATING</p><p>🟡 JavaScript </p>
+         <p><a font-weight="500" href="https://github.com/BoykoPetevBoev/SoftUni-JS-Applications-October-2019"> 📄  SoftUni-JS-Applications-October-2019 </a></p> 
+         <p font-size="12px">REST SERVICES / AJAX / REMOTE DATABASES / ROUTING / TEMPLATING</p>
+         <p font-size="12px">🟡 JavaScript </p>
       </td>
    </tr>
     <tr>
       <td>
-         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Back-End-May-2020"> 📄 SoftUni-JS-Back-End-May-2020</a></p> 
-         <p></p>EXPRESSJS / TEMPLATING / MONGODB / SESSION / AUTHENTICATION<p>🟡 JavaScript </p></td>
+         <p><a font-weight="500" href="https://github.com/BoykoPetevBoev/SoftUni-JS-Back-End-May-2020"> 📄 SoftUni-JS-Back-End-May-2020</a></p> 
+         <p font-size="12px">EXPRESSJS / TEMPLATING / MONGODB / SESSION / AUTHENTICATION</p>
+         <p font-size="12px">🟡 JavaScript </p></td>
       <td>
-         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-React-JS-June-2020"> 📄 SoftUni-React-JS-June-2020</a></p> 
-         <p>COMPONENTS / ROUTING / SPA / FORMS / REACT HOOKS</p><p>🟡 JavaScript </p>
+         <p><a font-weight="500" href="https://github.com/BoykoPetevBoev/SoftUni-React-JS-June-2020"> 📄 SoftUni-React-JS-June-2020</a></p> 
+         <p font-size="12px">COMPONENTS / ROUTING / SPA / FORMS / REACT HOOKS</p>
+         <p font-size="12px">🟡 JavaScript </p>
       </td>
    </tr>
    </tr>
     <tr>
       <td>
-         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-HTML-and-CSS-September-2020"> 📄 SoftUni-HTML-and-CSS-September-2020</a></p> 
-         <p>HTML & CSS / CSS BOX MODEL / POSITION & FLOAT / FLEXBOX</p><p>🔴 HTML </p></td>
+         <p><a font-weight="500" href="https://github.com/BoykoPetevBoev/SoftUni-HTML-and-CSS-September-2020"> 📄 SoftUni-HTML-and-CSS-September-2020</a></p> 
+         <p font-size="12px">HTML & CSS / CSS BOX MODEL / POSITION & FLOAT / FLEXBOX</p>
+         <p font-size="12px">🔴 HTML </p></td>
       <td>
-         <p><a href="https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020"> 📄 SoftUni-Algorithms-Fundamentals-November-2020</a></p> 
-         <p>RECURSION / SEARCHING / SORTING / GRAPH THEORY</p><p>🟡 JavaScript </p>
+         <p><a font-weight="500" href="https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020"> 📄 SoftUni-Algorithms-Fundamentals-November-2020</a></p> 
+         <p font-size="12px">RECURSION / SEARCHING / SORTING / GRAPH THEORY</p>
+         <p font-size="12px">🟡 JavaScript </p>
       </td>
    </tr>
     
 </table>
 
-<style>
 
-   p {
-      font-size: 12px;
-      margin: 0px;
-   }
-   
-   a {
-      font-weight: 500;
-   }
-</style>
 
 
 
