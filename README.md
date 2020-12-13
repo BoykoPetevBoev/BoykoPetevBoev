@@ -4,8 +4,9 @@
 </p>
 
 <div align="center">
-
-<img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
+<a href="https://softuni.bg/">
+   <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
+</a>
 
 </div>
 
