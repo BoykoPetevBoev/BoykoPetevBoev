@@ -11,7 +11,7 @@
 </div>
 
 <table width="100%">
-   <tr height="100px">
+   <tr height="90px">
       <td width="430px">
          <a font-weight="500" href="https://github.com/BoykoPetevBoev/SoftUni-Programming-Basics-January-2019">  <strong>SoftUni-Programming-Basics-January-2019 </strong>
          </a>
@@ -25,7 +25,7 @@
          <sub>🟡 JavaScript </sub>
       </td>
    </tr>
-   <tr  height="100px">
+   <tr  height="90px">
       <td>
          <a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Advanced-September-2019"> <strong>SoftUni-JS-Advanced-September-2019</strong>
          </a>
@@ -39,7 +39,7 @@
          <sub>🟡 JavaScript </sub>
       </td>
    </tr>
-   <tr height="100px">
+   <tr height="90px">
       <td>
          <a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Back-End-May-2020">  <strong>SoftUni-JS-Back-End-May-2020</strong>
          </a>
@@ -53,7 +53,7 @@
          <sub>🟡 JavaScript </sub>
       </td>
    </tr>
-   <tr  height="100px">
+   <tr  height="90px">
       <td>
          <a href="https://github.com/BoykoPetevBoev/SoftUni-HTML-and-CSS-September-2020"> 
          <strong>SoftUni-HTML-and-CSS-September-2020</strong>
@@ -68,17 +68,17 @@
          <sub>🟡 JavaScript </sub>
       </td>
    </tr>
-   <tr>
+   <tr   height="90px">
       <td>
       <a href="https://github.com/BoykoPetevBoev/SoftUni-Fest-2021"> <strong>SoftUni-Fest-2021</strong>
          </a>
-         <div><sub>16 - 17 January, 2021, Sofia</sub></div>
+         <div><sub>16 - 17 JANUARY / 2021 / SOFIA</sub></div>
          <sub>🟡 JavaScript </sub>
       </td>
       <td>
       <a href="https://github.com/BoykoPetevBoev/SoftUni-Motion-Software-Bootcamp"> <strong>SoftUni-Motion-Software-Bootcamp</strong>
          </a>
-         <div><sub></sub></div>
+         <div><sub>DOM / CLASSES / REST SERVICES / AJAX / THIS / ADVANCED FUNCTIONS</sub></div>
          <sub>🟡 JavaScript </sub>
       </td>
    </tr>
