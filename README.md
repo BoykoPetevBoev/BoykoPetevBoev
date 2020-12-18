@@ -73,7 +73,7 @@
       <a href="https://github.com/BoykoPetevBoev/SoftUni-Fest-2021"> <strong>SoftUni-Fest-2021</strong>
          </a>
          <div><sub>16 - 17 JANUARY / 2021 / SOFIA</sub></div>
-         <sub>🟡 JavaScript </sub>
+         <sub>🟡 JavaScript  </sub>
       </td>
       <td>
       <a href="https://github.com/BoykoPetevBoev/SoftUni-Motion-Software-Bootcamp"> <strong>SoftUni-Motion-Software-Bootcamp</strong>
