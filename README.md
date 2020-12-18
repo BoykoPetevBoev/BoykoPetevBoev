@@ -5,7 +5,7 @@
 
 <div align="center">
 <a href="https://softuni.bg/">
-   <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
+   <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/images/SoftUni-logo.png">
 </a>
 
 </div>
@@ -13,10 +13,18 @@
 <table width="100%">
    <tr height="90px">
       <td width="430px">
+         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
          <a font-weight="500" href="https://github.com/BoykoPetevBoev/SoftUni-Programming-Basics-January-2019">  <strong>SoftUni-Programming-Basics-January-2019 </strong>
          </a>
          <div><sub>IF-ELSE / FOR LOOP / WHILE LOOP</sub></div>
-         <sub>🟡  JavaScript </sub>
+         <div>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/yellow.png"  height="11px"> JavaScript    </sub>
+            <sub>
+               <a href="https://github.com/BoykoPetevBoev/SoftUni-Programming-Basics-January-2019/stargazers">
+                   <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/star.png" height="11px"> 1
+               </a>
+            </sub>
+         </div>
       </td>
       <td width="430px">
          <a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Fundamentals-May-2019"><strong>SoftUni-JS-Fundamentals-May-2019</strong>
