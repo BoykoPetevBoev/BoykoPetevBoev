@@ -18,12 +18,7 @@
          </a>
          <div><sub>IF-ELSE / FOR LOOP / WHILE LOOP</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="11px"> JavaScript    </sub>
-            <sub>
-               <a href="https://github.com/BoykoPetevBoev/SoftUni-Programming-Basics-January-2019/stargazers">
-                   <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/star.png" height="11px"> 1
-               </a>
-            </sub>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
          </div>
       </td>
       <td width="430px">
@@ -32,12 +27,7 @@
          </a>
          <div><sub>ARRAYS / OBJECTS / REGULAR EXPRESSIONS / TEXT PROCESSING</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="11px"> JavaScript    </sub>
-            <sub>
-               <a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Fundamentals-May-2019/stargazers">
-                   <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/star.png" height="11px"> 1
-               </a>
-            </sub>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
          </div>
       </td>
    </tr>
@@ -48,12 +38,7 @@
          </a>
          <div><sub>DOM / CLASSES / UNIT TESTING</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="11px"> JavaScript    </sub>
-            <sub>
-               <a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Advanced-September-2019/stargazers">
-                   <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/star.png" height="11px"> 6
-               </a>
-            </sub>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
          </div>
       </td>
       <td>
@@ -62,12 +47,7 @@
          </a>
          <div><sub>REST SERVICES / AJAX / REMOTE DATABASES / ROUTING / TEMPLATING</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="11px"> JavaScript    </sub>
-            <sub>
-               <a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Applications-October-2019/stargazers">
-                   <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/star.png" height="11px"> 5
-               </a>
-            </sub>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
          </div>
       </td>
    </tr>
@@ -78,7 +58,7 @@
          </a>
          <div><sub>EXPRESSJS / TEMPLATING / MONGODB / SESSION / AUTHENTICATION</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="11px"> JavaScript    </sub>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
          </div>
       </td>
       <td>
@@ -87,7 +67,7 @@
          </a>
          <div><sub>COMPONENTS / ROUTING / SPA / FORMS / REACT HOOKS</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="11px"> JavaScript    </sub>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
          </div>
       </td>
    </tr>
@@ -99,7 +79,7 @@
          </a>
          <div><sub>HTML & CSS / CSS BOX MODEL / POSITION & FLOAT / FLEXBOX</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/red.png"  height="11px"> HTML   </sub>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/red.png"  height="8px"> HTML   </sub>
          </div>
       </td>
       <td>
@@ -108,7 +88,7 @@
          </a>
          <div><sub>RECURSION / SEARCHING / SORTING / GRAPH THEORY</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="11px"> JavaScript    </sub>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
          </div>
       </td>
    </tr>
@@ -118,12 +98,7 @@
          <a href="https://github.com/BoykoPetevBoev/SoftUni-Fest-2021"> <strong>SoftUni-Fest-2021</strong></a>
          <div><sub>16 - 17 JANUARY / 2021 / SOFIA</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="11px"> JavaScript    </sub>
-            <sub>
-               <a href="https://github.com/BoykoPetevBoev/SoftUni-Fest-2021/stargazers">
-                   <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/star.png" height="11px"> 1
-               </a>
-            </sub>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
          </div>
       </td>
       <td>
@@ -132,7 +107,7 @@
          </a>
          <div><sub>DOM / CLASSES / REST SERVICES / AJAX / THIS / ADVANCED FUNCTIONS</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="11px"> JavaScript    </sub>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
          </div>
       </td>
    </tr>
