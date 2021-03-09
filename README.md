@@ -98,7 +98,7 @@
       <td>
          <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
          <a href="https://github.com/BoykoPetevBoev/SoftUni-Fest-2021"> <strong>SoftUni-Fest-2021</strong></a>
-         <div><sub>16 - 17 JANUARY / 2021 / SOFIA</sub></div>
+         <div><sub>MONGODB / EXPRESS / REACT / NODEJS</sub></div>
          <div>
             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
          </div>
