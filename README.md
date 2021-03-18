@@ -6,10 +6,9 @@
 <hr></hr>
 
 <div align="center">
-<a href="https://softuni.bg/">
-   <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
-</a>
-
+   <a href="https://softuni.bg/">
+      <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
+   </a>
 </div>
 
 <table width="100%">
@@ -111,6 +110,35 @@
          <div>
             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
          </div>
+      </td>
+   </tr>
+    
+</table>
+
+<div align="center">
+   <a href="https://university.mongodb.com/courses/catalog">
+      <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/MongoDB-logo.png">
+   </a>
+</div>
+
+<table>
+   <tr height="90px">
+      <td>
+         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
+         <a href="https://github.com/BoykoPetevBoev/MongoDB-for-Javascript-Developers"> <strong>MongoDB-for-Javascript-Developers</strong></a>
+         <div><sub>DRIVER SETUP / USER-FACING BACKEND / ADMIN BACKEND / RESILIENCY</sub></div>
+         <div>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
+         </div>
+      </td>
+      <td>
+         <!-- <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px"> -->
+         <!-- <a href=""> <strong></strong>
+         </a> -->
+         <!-- <div><sub></sub></div> -->
+         <!-- <div> -->
+            <!-- <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub> -->
+         <!-- </div> -->
       </td>
    </tr>
     
