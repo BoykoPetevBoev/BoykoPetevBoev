@@ -127,7 +127,7 @@
          <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
          <a href="https://university.mongodb.com/courses/M001/2021_March_9/completion"> <strong>MongoDB Basics</strong>
          </a>
-         <div><sub>Importing and Exporting Data / Creating and Manipulating Documents / Advanced CRUD Operations</sub></div>
+         <div> <sub>IMPORTING AND EXPORTING DATA / CREATING AND MANIPULATING DOCUMENTS / CRUD OPERATIONS </sub> </div>
          <div>
             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> Certificate    </sub>
          </div>
