@@ -121,9 +121,9 @@
    </a>
 </div>
 
-<table>
+<table width="100%">
    <tr height="90px">
-      <td>
+      <td  width="430px">
          <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
          <a href="https://github.com/BoykoPetevBoev/MongoDB-for-Javascript-Developers"> <strong>MongoDB-for-Javascript-Developers</strong></a>
          <div><sub>DRIVER SETUP / USER-FACING BACKEND / ADMIN BACKEND / RESILIENCY</sub></div>
@@ -131,7 +131,7 @@
             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
          </div>
       </td>
-      <td>
+      <td  width="430px">
          <!-- <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px"> -->
          <!-- <a href=""> <strong></strong>
          </a> -->
