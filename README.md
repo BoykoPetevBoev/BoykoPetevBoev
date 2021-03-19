@@ -125,20 +125,20 @@
    <tr height="90px">
       <td  width="430px">
          <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
+         <a href="https://university.mongodb.com/courses/M001/2021_March_9/completion"> <strong>MongoDB Basics</strong>
+         </a>
+         <div><sub></sub></div>
+         <div>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> Certificate    </sub>
+         </div>
+      </td>
+      <td  width="430px">
+         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
          <a href="https://github.com/BoykoPetevBoev/MongoDB-for-Javascript-Developers"> <strong>MongoDB-for-Javascript-Developers</strong></a>
          <div><sub>DRIVER SETUP / USER-FACING BACKEND / ADMIN BACKEND / RESILIENCY</sub></div>
          <div>
             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
          </div>
-      </td>
-      <td  width="430px">
-         <!-- <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px"> -->
-         <!-- <a href=""> <strong></strong>
-         </a> -->
-         <!-- <div><sub></sub></div> -->
-         <!-- <div> -->
-            <!-- <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub> -->
-         <!-- </div> -->
       </td>
    </tr>
     
