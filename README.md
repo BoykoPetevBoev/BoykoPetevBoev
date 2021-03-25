@@ -144,7 +144,7 @@
 
 <div align="center">
    <a href="https://github.com/BoykoPetevBoev">
-      <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/YouTube-logo-2.png">
+      <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/test-logo.png">
    </a>
 </div>
 
