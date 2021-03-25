@@ -140,7 +140,34 @@
          </div>
       </td>
    </tr>
-    
+</table>
+
+<div align="center">
+   <a href="https://github.com/BoykoPetevBoev">
+      <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/YouTube-logo.png">
+   </a>
+</div>
+
+<table width="100%">
+   <tr height="90px">
+      <td  width="430px">
+         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
+         <a href="https://github.com/BoykoPetevBoev"> <strong>YouTube</strong>
+         </a>
+         <div> <sub></sub> </div>
+         <div>
+            <!-- <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/green.png"  height="8px">    </sub> -->
+         </div>
+      </td>
+      <td  width="430px">
+         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
+         <a href="https://github.com/BoykoPetevBoev"> <strong>YouTube</strong></a>
+         <div><sub>DRIVER SETUP / USER-FACING BACKEND / ADMIN BACKEND / RESILIENCY</sub></div>
+         <div>
+            <!-- <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub> -->
+         </div>
+      </td>
+   </tr>
 </table>
 
 
