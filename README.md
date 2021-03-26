@@ -148,9 +148,9 @@
    </a>
 </div>
 
-<table width="100%">
-   <tr height="90px">
-      <td  width="430px">
+<table>
+   <tr>
+      <td>
          <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
          <a href="https://github.com/BoykoPetevBoev"> <strong>Web Dev Simplified</strong>
          </a>
@@ -170,6 +170,22 @@
    </tr>
 </table>
 
+<style>
+
+   table {
+      width: 100%;
+   }
+
+   table tr {
+      height: 90px;
+   }
+
+   table hr td {
+      width: 430px;
+   }
+
+
+</style>
 
 
 
