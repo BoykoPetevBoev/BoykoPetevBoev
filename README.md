@@ -144,7 +144,7 @@
 
 <div align="center">
    <a href="https://github.com/BoykoPetevBoev">
-      <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/images/logo/Video.png">
+      <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/images/logo/Video-New.png">
    </a>
 </div>
 
@@ -156,7 +156,7 @@
          </a>
          <div> <sub>JS / HTML / CSS</sub> </div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px">    </sub>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript  </sub>
          </div>
       </td>
       <td  width="430px">
