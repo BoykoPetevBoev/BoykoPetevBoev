@@ -5,7 +5,7 @@
 
 <hr></hr>
 
-<div align="center">
+<div align="center" height="60px">
    <a href="https://softuni.bg/">
       <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/images/logo/SoftUni.png">
    </a>
@@ -114,7 +114,7 @@
     
 </table>
 
-<div align="center">
+<div align="center" height="60px">
    <a href="https://university.mongodb.com/courses/catalog">
       <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/images/logo/MongoDB.png">
    </a>
@@ -142,15 +142,15 @@
    </tr>
 </table>
 
-<div align="center">
+<div align="center" height="60px">
    <a href="https://github.com/BoykoPetevBoev">
       <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/logo/VIdeo-New.png">
    </a>
 </div>
 
-<table width="100%">
-   <tr height="90px">
-      <td  width="430px">
+<table>
+   <tr>
+      <td>
          <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
          <a href="https://github.com/BoykoPetevBoev"> <strong>Web Dev Simplified</strong>
          </a>
@@ -169,6 +169,20 @@
       </td>
    </tr>
 </table>
+
+<style>
+
+   table {
+      width="100%";
+   }
+   table tr {
+      height="90px";
+   }
+   table tr td {
+      width="430px";
+   }
+
+</style>
 
 
 
