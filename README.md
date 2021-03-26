@@ -5,7 +5,7 @@
 
 <hr></hr>
 
-<div align="center" height="55px">
+<div align="center" style="height:55px">
    <a href="https://softuni.bg/">
       <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/images/logo/SoftUni.png">
    </a>
@@ -114,7 +114,7 @@
     
 </table>
 
-<div align="center" height="55px">
+<div align="center" style="height:55px">
    <a href="https://university.mongodb.com/courses/catalog">
       <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/images/logo/MongoDB.png">
    </a>
@@ -142,7 +142,7 @@
    </tr>
 </table>
 
-<div align="center" height="55px">
+<div align="center" style="height:55px">
    <a href="https://github.com/BoykoPetevBoev">
       <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/logo/VIdeo-New.png">
    </a>
