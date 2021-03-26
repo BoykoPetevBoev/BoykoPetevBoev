@@ -169,22 +169,16 @@
       </td>
    </tr>
 </table>
-
 <style>
-
    table {
       width: 100%;
    }
-
    table tr {
       height: 90px;
    }
-
    table hr td {
       width: 430px;
    }
-
-
 </style>
 
 
