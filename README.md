@@ -142,8 +142,8 @@
    </tr>
 </table>
 
-<div align="center" style="height:55px">
-   <a href="https://github.com/BoykoPetevBoev">
+<div align="center">
+   <a height="55px" href="https://github.com/BoykoPetevBoev">
       <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/logo/VIdeo-New.png">
    </a>
 </div>
@@ -152,9 +152,9 @@
    <tr height="90px">
       <td  width="430px">
          <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev"> <strong>Web Dev Simplified</strong>
+         <a href="https://github.com/BoykoPetevBoev/Web-Dev-Simplified"> <strong>Web Dev Simplified</strong>
          </a>
-         <div> <sub>JS / HTML / CSS</sub> </div>
+         <div> <sub>SNAKE GAME</sub> </div>
          <div>
             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript  </sub>
          </div>
