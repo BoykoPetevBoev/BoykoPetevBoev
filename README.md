@@ -154,7 +154,7 @@
          <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
          <a href="https://github.com/BoykoPetevBoev/Web-Dev-Simplified"> <strong>Web Dev Simplified</strong>
          </a>
-         <div> <sub>SNAKE GAME</sub> </div>
+         <div> <sub>SNAKE GAME / TIPS AND TRICKS</sub> </div>
          <div>
             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript  </sub>
          </div>
