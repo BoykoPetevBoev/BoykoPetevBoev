@@ -124,7 +124,7 @@
    <tr height="90px">
       <td  width="430px">
          <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
-         <a href="https://university.mongodb.com/courses/M001/2021_March_9/completion"> <strong>MongoDB Basics</strong>
+         <a href="https://university.mongodb.com/course_completion/a2175fa8-a72e-4273-bc79-3ae9c191e3d1?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing"> <strong>MongoDB Basics</strong>
          </a>
          <div> <sub>CREATING AND MANIPULATING DOCUMENTS / CRUD OPERATIONS </sub> </div>
          <div>
