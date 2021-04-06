@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/boyko-boev-41a3991b8/">
-   <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/images/logo/linkedin.png">
+   <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/images/logo/pngegg.png">
 </a>
 
 <p align="center">
