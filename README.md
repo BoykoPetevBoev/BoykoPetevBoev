@@ -1,8 +1,3 @@
-<div align="center" style="height:55px">
-   <a href="https://www.linkedin.com/in/boyko-boev-41a3991b8/">
-      <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/images/logo/pngegg.png">
-   </a>
-</div>
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=BoykoPetevBoev&count_private=true&show_icons=true" height="165px" >
@@ -175,6 +170,12 @@
       </td>
    </tr>
 </table>
+
+<div align="center" style="height:55px">
+   <a href="https://www.linkedin.com/in/boyko-boev-41a3991b8/">
+      <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/images/logo/pngegg.png">
+   </a>
+</div>
 
 
 
