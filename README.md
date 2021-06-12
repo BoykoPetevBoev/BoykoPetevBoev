@@ -143,39 +143,46 @@
    </tr>
 </table>
 
-<div align="center">
-   <a height="55px" href="https://github.com/BoykoPetevBoev">
-      <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/logo/VIdeo-New.png">
-   </a>
-</div>
+
 
 <table width="100%">
+<tr height="90px">
+      <td  width="430px">
+         <div align="center">
+            <a height="55px" href="https://github.com/BoykoPetevBoev">
+               <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/logo/VIdeo-New.png">
+            </a>
+         </div>
+      </td>
+      <td  width="430px">
+         <div align="center" style="height:55px">
+            <a href="https://www.linkedin.com/in/boyko-boev-41a3991b8/">
+               <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/images/logo/pngegg.png">
+            </a>
+         </div>
+      </td>
+   </tr>
    <tr height="90px">
       <td  width="430px">
          <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev/Web-Dev-Simplified"> <strong>Web Dev Simplified</strong>
-         </a>
+         <a href="https://github.com/BoykoPetevBoev/Web-Dev-Simplified"> <strong>Web Dev Simplified</strong></a>
          <div> <sub>SNAKE GAME / TIPS AND TRICKS</sub> </div>
          <div>
             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript  </sub>
          </div>
       </td>
       <td  width="430px">
-         <!-- <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev"> <strong>YouTube</strong></a>
-         <div><sub>DRIVER SETUP / USER-FACING BACKEND / ADMIN BACKEND / RESILIENCY</sub></div>
+         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
+         <a href="https://github.com/BoykoPetevBoev/CSS-Essential-Training"> <strong>CSS Essential Training</strong></a>
+         <div><sub>Cascading Style Sheets (CSS) / Web Design</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub>
-         </div> -->
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/green.png"  height="8px"> CSS</sub>
+         </div>
       </td>
    </tr>
 </table>
 
-<div align="center" style="height:55px">
-   <a href="https://www.linkedin.com/in/boyko-boev-41a3991b8/">
-      <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/images/logo/pngegg.png">
-   </a>
-</div>
+
 
 
 
