@@ -96,10 +96,10 @@
    <tr   height="90px">
       <td>
          <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev/SoftUniada-2021"> <strong>SoftUniada 2021</strong></a>
-         <div><sub>MONGODB / EXPRESS / REACT / NODEJS / SOCKET.IO / JEST</sub></div>
+         <a href="https://github.com/BoykoPetevBoev/SoftUni-Angular-July-2021"> <strong>SoftUni Angular July-2021</strong></a>
+         <div><sub>ANGULAR / TYPESCRIPT / SASS / COMPONENTS / MODULES / ROUTING</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub>
+            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> TypeScript   </sub>
          </div>
       </td>
       <td>
@@ -143,40 +143,24 @@
    </tr>
 </table>
 
-
+<hr></hr>
 
 <table width="100%">
-<tr height="90px">
-      <td  width="430px">
-         <div align="center">
-            <a height="55px" href="https://github.com/BoykoPetevBoev">
-               <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/logo/VIdeo-New.png">
-            </a>
-         </div>
-      </td>
-      <td  width="430px">
-         <div align="center" style="height:55px">
-            <a href="https://www.linkedin.com/in/boyko-boev-41a3991b8/">
-               <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/images/logo/pngegg.png">
-            </a>
-         </div>
-      </td>
-   </tr>
    <tr height="90px">
       <td  width="430px">
          <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev/Web-Dev-Simplified"> <strong>Web Dev Simplified</strong></a>
-         <div> <sub>SNAKE GAME / TIPS AND TRICKS</sub> </div>
+         <a href="https://github.com/BoykoPetevBoev/Javascript-the-Good-Parts"> <strong>JavaScript the Good Parts</strong></a>
+         <div> <sub>forked from dwyl/Javascript-the-Good-Parts-notes</sub> </div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript  </sub>
+            <sub> Book  </sub>
          </div>
       </td>
       <td  width="430px">
          <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev/CSS-Essential-Training"> <strong>CSS Essential Training</strong></a>
-         <div><sub>Cascading Style Sheets (CSS) / Web Design</sub></div>
+         <a href="https://github.com/BoykoPetevBoev/You-Dont-Know-JS"> <strong>You Dont Know JS</strong></a>
+         <div><sub>forked from getify/You-Dont-Know-JS</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/green.png"  height="8px"> CSS</sub>
+            <sub>Book</sub>
          </div>
       </td>
    </tr>
