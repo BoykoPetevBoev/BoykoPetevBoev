@@ -20,7 +20,7 @@
          </a>
          <div><sub>IF-ELSE / FOR LOOP / WHILE LOOP</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub>
+<!--             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub> -->
          </div>
       </td>
       <td width="430px">
@@ -29,7 +29,7 @@
          </a>
          <div><sub>ARRAYS / OBJECTS / REGULAR EXPRESSIONS / TEXT PROCESSING</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub>
+<!--             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub> -->
          </div>
       </td>
    </tr>
@@ -40,7 +40,7 @@
          </a>
          <div><sub>DOM / CLASSES / UNIT TESTING</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub>
+<!--             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub> -->
          </div>
       </td>
       <td>
@@ -49,7 +49,7 @@
          </a>
          <div><sub>REST SERVICES / AJAX / REMOTE DATABASES / ROUTING / TEMPLATING</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub>
+<!--             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub> -->
          </div>
       </td>
    </tr>
@@ -60,7 +60,7 @@
          </a>
          <div><sub>EXPRESSJS / TEMPLATING / MONGODB / SESSION / AUTHENTICATION</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub>
+<!--             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub> -->
          </div>
       </td>
       <td>
@@ -69,7 +69,7 @@
          </a>
          <div><sub>COMPONENTS / ROUTING / SPA / FORMS / REACT HOOKS</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub>
+<!--             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub> -->
          </div>
       </td>
    </tr>
@@ -80,7 +80,7 @@
          </a>
          <div><sub>HTML & CSS / CSS BOX MODEL / POSITION & FLOAT / FLEXBOX</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/red.png"  height="8px"> HTML   </sub>
+<!--             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/red.png"  height="8px"> HTML   </sub> -->
          </div>
       </td>
       <td>
@@ -89,7 +89,7 @@
          </a>
          <div><sub>RECURSION / SEARCHING / SORTING / GRAPH THEORY</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub>
+<!--             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub> -->
          </div>
       </td>
    </tr>
@@ -99,7 +99,7 @@
          <a href="https://github.com/BoykoPetevBoev/SoftUni-Angular-July-2021"> <strong>SoftUni Angular July-2021</strong></a>
          <div><sub>ANGULAR / TYPESCRIPT / SASS / COMPONENTS / MODULES / ROUTING</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> TypeScript   </sub>
+<!--             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> TypeScript   </sub> -->
          </div>
       </td>
       <td>
@@ -108,7 +108,7 @@
          </a>
          <div><sub>DOM / CLASSES / REST SERVICES / AJAX / THIS / ADVANCED FUNCTIONS</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub>
+<!--             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub> -->
          </div>
       </td>
    </tr>
@@ -129,7 +129,7 @@
          </a>
          <div> <sub>CREATING AND MANIPULATING DOCUMENTS / CRUD OPERATIONS </sub> </div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/green.png"  height="8px"> Certificate    </sub>
+<!--             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/green.png"  height="8px"> Certificate    </sub> -->
          </div>
       </td>
       <td  width="430px">
@@ -137,7 +137,7 @@
          <a href="https://github.com/BoykoPetevBoev/MongoDB-for-Javascript-Developers"> <strong>MongoDB for JS Developers</strong></a>
          <div><sub>DRIVER SETUP / USER-FACING BACKEND / ADMIN BACKEND / RESILIENCY</sub></div>
          <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub>
+<!--             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub> -->
          </div>
       </td>
    </tr>
