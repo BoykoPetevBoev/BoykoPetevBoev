@@ -112,8 +112,60 @@
          </div>
       </td>
    </tr>
-    
 </table>
+
+<table width="100%">
+   <tr height="90px">
+      <td width="430px">
+         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
+         <a font-weight="500" href="https://github.com/BoykoPetevBoev/SoftUni-Math-Concepts-for-Developers-March-2022">  
+            <strong>SoftUni-Math-Concepts-for-Developers-March-2022</strong>
+         </a>
+         <div>
+            <sub>ALGEBRA / CALCULUS / PROBABILITY / COMBINATORIC</sub>
+         </div>
+         <div>
+         </div>
+      </td>
+      <td width="430px">
+         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
+         <a href="https://github.com/BoykoPetevBoev/SoftUni-Data-Science-June-2022">
+            <strong>SoftUni-Data-Science-June-2022</strong>
+         </a>
+         <div>
+            <sub>TODO</sub>
+         </div>
+         <div>
+         </div>
+      </td>
+   </tr>
+
+   <tr height="90px">
+      <td width="430px">
+         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
+         <a font-weight="500" href="https://github.com/BoykoPetevBoev/SoftUni-Machine-Learning-September-2022">  
+            <strong>SoftUni-Machine-Learning-September-2022</strong>
+         </a>
+         <div>
+             <sub>TODO</sub>
+         </div>
+         <div>
+         </div>
+      </td>
+      <td width="430px">
+         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
+         <a href="https://github.com/BoykoPetevBoev/SoftUni-Deep-Learning-December-2022">
+            <strong>SoftUni-Deep-Learning-December-2022</strong>
+         </a>
+         <div>
+            <sub>TODO</sub>
+         </div>
+         <div>
+         </div>
+      </td>
+   </tr>
+</table>
+
 
 <div align="center" style="height:55px">
    <a href="https://university.mongodb.com/courses/catalog">
