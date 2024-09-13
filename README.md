@@ -1,5 +1,13 @@
 
 <p align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoykoPetevBoev&theme=github" height="165px" >
+</p>
+<p align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BoykoPetevBoev&theme=github" height="165px" >
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BoykoPetevBoev&theme=github" height="165px" >
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BoykoPetevBoev&theme=github" height="165px" >
+</p>
+<p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=BoykoPetevBoev&count_private=true&show_icons=true" height="165px" >
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoykoPetevBoev&layout=compact" height="165px" >
 </p>
@@ -12,6 +20,7 @@
    </a>
 </div>
 
+<h1>JavaScript</h1>
 <table width="100%">
    <tr height="90px">
       <td width="430px">
@@ -109,6 +118,34 @@
          <div><sub>DOM / CLASSES / REST SERVICES / AJAX / THIS / ADVANCED FUNCTIONS</sub></div>
          <div>
 <!--             <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/dots/yellow.png"  height="8px"> JavaScript    </sub> -->
+         </div>
+      </td>
+   </tr>
+</table>
+
+<h1>Python</h1>
+<table width="100%">
+   <tr height="90px">
+      <td width="430px">
+         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
+         <a font-weight="500" href="https://github.com/BoykoPetevBoev/SoftUni-Python-Advanced-January-2022">  
+            <strong>SoftUni-Python-Advanced-January-2022</strong>
+         </a>
+         <div>
+            <sub>LISTS / TUPLES / FUNCTIONS / FILES</sub>
+         </div>
+         <div>
+         </div>
+      </td>
+      <td width="430px">
+         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/images/repo.png" height="13px">
+         <a href="https://github.com/BoykoPetevBoev/SoftUni-Python-OOP-February-2022">
+            <strong>SoftUni-Python-OOP-February-2022</strong>
+         </a>
+         <div>
+            <sub>TODO</sub>
+         </div>
+         <div>
          </div>
       </td>
    </tr>
