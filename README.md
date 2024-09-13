@@ -1,15 +1,15 @@
 
-<p margin="0">
+<p style="margin: 0px; padding: 0px">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoykoPetevBoev&theme=github" height="165px" >
 </p>
-<p margin="0">
+<p style="margin: 0px; padding: 0px">
    <img src="https://github-readme-stats.vercel.app/api?username=BoykoPetevBoev&count_private=true&show_icons=true" height="165px" >
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BoykoPetevBoev&theme=github" height="165px" >
 </p>
-<p margin="0">
+<p style="margin: 0px; padding: 0px">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoykoPetevBoev&layout=compact" width="34%">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BoykoPetevBoev&theme=github" width="32%" >
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BoykoPetevBoev&theme=github" max-width="32%">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BoykoPetevBoev&theme=github" width="32%">
 </p>
 
 <hr></hr>
